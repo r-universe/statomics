@@ -1,5 +1,11 @@
 [
   {
+    "package": "msqrob2"
+  },
+  {
+    "package": "satuRn"
+  },
+  {
     "package": "tradeSeq"
   }
 ]
