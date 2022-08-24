@@ -6,6 +6,9 @@
     "package": "satuRn"
   },
   {
+    "package": "TargetDecoy"
+  },
+  {
     "package": "tradeSeq"
   }
 ]
