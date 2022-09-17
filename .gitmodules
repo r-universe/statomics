@@ -8,11 +8,6 @@
 	url = https://github.com/statomics/msqrob2
 	shallow = true
 	registered = true
-[submodule "satuRn"]
-	path = satuRn
-	url = https://github.com/statomics/saturn
-	shallow = true
-	registered = true
 [submodule "TargetDecoy"]
 	path = TargetDecoy
 	url = https://github.com/statomics/targetdecoy
