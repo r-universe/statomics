@@ -3,14 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "msqrob2"]
-	path = msqrob2
-	url = https://github.com/statomics/msqrob2
-	shallow = true
-	registered = true
-[submodule "TargetDecoy"]
-	path = TargetDecoy
-	url = https://github.com/statomics/targetdecoy
+[submodule "satuRn"]
+	path = satuRn
+	url = https://github.com/statomics/saturn
 	shallow = true
 	registered = true
 [submodule "tradeSeq"]
