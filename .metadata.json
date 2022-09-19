@@ -1,5 +1,14 @@
 [
   {
+    "package": "msqrob2"
+  },
+  {
     "package": "satuRn"
+  },
+  {
+    "package": "TargetDecoy"
+  },
+  {
+    "package": "tradeSeq"
   }
 ]
