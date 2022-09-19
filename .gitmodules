@@ -8,8 +8,3 @@
 	url = https://github.com/statomics/saturn
 	shallow = true
 	registered = true
-[submodule "tradeSeq"]
-	path = tradeSeq
-	url = https://github.com/statomics/tradeseq
-	shallow = true
-	registered = true
