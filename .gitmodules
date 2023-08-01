@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "TargetDecoy"]
+	path = TargetDecoy
+	url = https://github.com/statomics/targetdecoy
 [submodule "msqrob2"]
 	path = msqrob2
 	url = https://github.com/statomics/msqrob2
 [submodule "satuRn"]
 	path = satuRn
 	url = https://github.com/statomics/saturn
-[submodule "TargetDecoy"]
-	path = TargetDecoy
-	url = https://github.com/statomics/targetdecoy
 [submodule "tradeSeq"]
 	path = tradeSeq
 	url = https://github.com/statomics/tradeseq
