@@ -8,6 +8,9 @@
 [submodule "msqrob2"]
 	path = msqrob2
 	url = https://github.com/statomics/msqrob2
+[submodule "saseR"]
+	path = saseR
+	url = https://github.com/statomics/saser
 [submodule "satuRn"]
 	path = satuRn
 	url = https://github.com/statomics/saturn
